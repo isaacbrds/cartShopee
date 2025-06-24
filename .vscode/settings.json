@@ -1,0 +1,26 @@
+{
+  "emojisense.languages": {
+
+    "markdown": true,
+    "html": true,
+    "javascript": true,
+    "typescript": true,
+    "css": true,
+    "scss": true,
+    "less": true,
+    "json": true,
+    "yaml": true,
+    "xml": true,
+    "python": true,
+    "java": true,
+    "php": true,
+    "ruby": true,
+    "go": true,
+    "plaintext": {
+      "markupCompletionsEnabled": true,
+      "emojiDecoratorsEnabled": true
+    },
+    "scminput": true,
+    "git-commit": true
+  }
+}
