@@ -1,4 +1,4 @@
-cartShopee
+#cartShopee
 Uma aplicação de carrinho de compras simples e intuitiva construída com JavaScript.
 
 🚀 Visão Geral
