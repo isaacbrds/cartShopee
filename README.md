@@ -19,5 +19,5 @@ Calcular Totais: Calcula automaticamente o preço total de todos os itens no car
 # 🛠️ Tecnologias Utilizadas
 Este projeto é construído principalmente com:
 
-Nodejs ![Node JS]([[https://www.google.com/url?sa=i&url=https%3A%2F%2Fabsam.io%2Fblog%2Fcriando-e-configurando-um-servidor-nodejs%2F&psig=AOvVaw2a3UfXB5mO0s-vyCDdHUGL&ust=1750893533298000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiuxeqYi44DFQAAAAAdAAAAABAL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FNode.js&psig=AOvVaw1BiANvW2yFbJ-Ae4zSsnHb&ust=1750893765270000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDM8NiZi44DFQAAAAAdAAAAABAE)](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg))
+<img align="center" alt="isaac-Js" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
 
